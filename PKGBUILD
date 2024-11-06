@@ -1,4 +1,6 @@
 # Maintainer: Diego Garcia <diego.garcia.cr at gmail.com>
+# Maintained at https://github.com/AmmoniumX/python-selenium-bin, feel free to submit patches
+
 pkgname=python-selenium-bin
 pkgver=4.26.1
 pkgrel=1
